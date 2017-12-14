@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="YfEncoderKit-v1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/2c4796904385d9ecd08e36b3fd4c4e964f2e6631/output/jars/libs/YfFilters.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/2c4796904385d9ecd08e36b3fd4c4e964f2e6631/output/jars/libs/YfEncoderKit.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/2c4796904385d9ecd08e36b3fd4c4e964f2e6631/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/2c4796904385d9ecd08e36b3fd4c4e964f2e6631/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

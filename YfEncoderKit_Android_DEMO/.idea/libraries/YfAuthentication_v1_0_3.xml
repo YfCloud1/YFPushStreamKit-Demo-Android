@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="YfAuthentication-v1.0.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/d7b059382a5802aba2249efd397f736a77730066/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d7b059382a5802aba2249efd397f736a77730066/output/jars/libs/YfAuth.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d7b059382a5802aba2249efd397f736a77730066/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

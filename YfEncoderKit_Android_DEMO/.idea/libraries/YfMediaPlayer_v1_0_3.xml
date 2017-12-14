@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="YfMediaPlayer-v1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/4397de6dc2ae8df908be6016df34de8e318d6a4b/output/jars/libs/YfPlayerKit.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/4397de6dc2ae8df908be6016df34de8e318d6a4b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/4397de6dc2ae8df908be6016df34de8e318d6a4b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
